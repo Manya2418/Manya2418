@@ -19,11 +19,11 @@ Hi, I'm Manya Sahu, a passionate **Mern Stack** and **Java** from India. Current
 ## 🌐 Find Me Online
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manya-sahu-3a190123a/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Manya2418)
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetCode)](https://leetcode.com/u/Manya123/)
-- [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-green?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/manyasm4rk/)
-- [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail)](mailto:manya25cs077@satiengg.in)
-- [![Phone](https://img.shields.io/badge/Phone-%2B91%208878445003-blue?style=flat-square&logo=phone)](tel:+918878445003)
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Manya2418)
+ [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetCode)](https://leetcode.com/u/Manya123/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-green?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/manyasm4rk/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail)](mailto:manya25cs077@satiengg.in)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208878445003-blue?style=flat-square&logo=phone)](tel:+918878445003)
 
 
 
